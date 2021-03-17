@@ -26,7 +26,7 @@ import (
 	"time"
 
 	sd_dbus "github.com/coreos/go-systemd/v22/dbus"
-	"github.com/godbus/dbus/v5"
+	"gopkg.in/hlandauf/dbus.v5"
 )
 
 const (

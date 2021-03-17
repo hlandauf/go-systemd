@@ -25,7 +25,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/godbus/dbus/v5"
+	"gopkg.in/hlandauf/dbus.v5"
 )
 
 type TrUnitProp struct {

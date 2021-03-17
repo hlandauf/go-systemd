@@ -21,7 +21,7 @@ import (
 	"path"
 	"strconv"
 
-	"github.com/godbus/dbus/v5"
+	"gopkg.in/hlandauf/dbus.v5"
 )
 
 // Who can be used to specify which process to kill in the unit via the KillUnitWithTarget API

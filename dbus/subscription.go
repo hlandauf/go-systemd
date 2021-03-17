@@ -19,7 +19,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/godbus/dbus/v5"
+	"gopkg.in/hlandauf/dbus.v5"
 )
 
 const (
